@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+*.vsidx
+
+# Backend
+backend/bin/
+backend/obj/
+backend/wwwroot/uploads/
+
+# Frontend
+frontend/medical-dashboard/node_modules/
+frontend/medical-dashboard/.next/
+
+# OS files
+Thumbs.db
+.DS_Store
