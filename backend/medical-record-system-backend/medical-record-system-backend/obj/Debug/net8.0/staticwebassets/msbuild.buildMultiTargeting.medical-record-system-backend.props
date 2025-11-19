@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\medical-record-system-backend.props" />
-</Project>
